@@ -1,0 +1,7 @@
+SECRET_KEY="SU CLAVE SECRETA" 
+DB_HOST="db" 
+DB_PASSWORD="hola" #from docker-compose.yml 
+DB_USER="postgres" #from docker-compose.yml 
+DB_NAME="postgres" #from docker-compose.yml 
+DB_PORT= "5432" #desde docker-compose.yml 
+DB_ENGINE="django.db.backends.postgresql"
